@@ -1,0 +1,15 @@
+cloud-cost-aware-infra-aws/
+├── terraform/
+│   ├── modules/
+│   ├── prod/
+│   └── dev/
+├── ci-cd/
+│   └── github-actions/
+├── diagrams/
+│   └── architecture.pdf
+├── docs/
+│   ├── README.md
+│   ├── SLOs.md
+│   └── FinOps-strategy.md
+└── .github/
+    └── workflows/
